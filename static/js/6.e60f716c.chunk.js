@@ -1,0 +1,2 @@
+(this["webpackJsonpstaticdeployment-firebase"]=this["webpackJsonpstaticdeployment-firebase"]||[]).push([[6],{51:function(e,t,s){"use strict";s.r(t);var n=s(1);t.default=function(){return Object(n.jsx)("div",{className:"centered",children:Object(n.jsx)("p",{children:"Page not found!"})})}}}]);
+//# sourceMappingURL=6.e60f716c.chunk.js.map
